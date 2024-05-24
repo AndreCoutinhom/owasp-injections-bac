@@ -6,4 +6,10 @@
 
 Nessa primeira parte, vamos focar em conhecer a lista do top de 10 de riscos de segurança de um aplicação web. Veremos diversos tipos de injections, problemas de autenticação, riscos de não usar logs, configurações inadequadas de segurança e mais.
 
+## Cursos
+
+OWASP Top 10: de Injections a Broken Access Control
+
+OWASP Top 10: Security misconfiguration, logging e monitoramento
+
 ---
