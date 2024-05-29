@@ -76,6 +76,6 @@ Esse tipo de teste só pode ser feito em ambientes em que se possua permissão d
 
 Todas as informações destas anotações foram feitas à partir da documentação oficial da OWASP que pode ser acessada [aqui](https://github.com/OWASP/Top10/blob/master/2017/OWASP%20Top%2010-2017%20(en).pdf).
 
-Informações específicas sobre o tópico **A1**, estão entre as páginas 6 e 7.
+Informações específicas sobre o tópico **A2** estão na página 7.
 
 ---
