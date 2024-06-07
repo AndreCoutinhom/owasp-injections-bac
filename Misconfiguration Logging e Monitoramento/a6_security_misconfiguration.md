@@ -1,5 +1,5 @@
 # A6 Security Misconfiguration
 
-> Security misconfiguration is the most commonly seen issue. This is commonly a result of insecure default configurations, incomplete or ad hoc configurations, open cloud storage, misconfigured HTTP headers, and verbose error messages containing sensitive information. Not only must all operating systems, frameworks, libraries, and applications be securely configured, but they must be patched and upgraded in a timely fashion.
+> Configuração incorreta de segurança é o problema mais comum. Isso geralmente resulta de configurações padrão inseguras, configurações incompletas ou ad hoc, armazenamento em nuvem aberto, cabeçalhos HTTP mal configurados e mensagens de erro verbose contendo informações confidenciais. Não apenas todos os sistemas operacionais, frameworks, bibliotecas e aplicativos devem ser configurados com segurança, mas também devem ser corrigidos e atualizados em tempo hábil.
 
 ---
